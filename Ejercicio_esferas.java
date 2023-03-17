@@ -31,6 +31,6 @@ public class Ejercicio_esferas {
           if (pesoA>pesoD)
               System.out.println("La esfera A es la diferente y es de mayor peso");
           else
-              System.out.println("La esfera D es la diferente y es de menor peso");
+              System.out.println("La esfera A es la diferente y es de menor peso");
     }
 }
